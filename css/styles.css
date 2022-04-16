@@ -1,0 +1,74 @@
+.container-fluid{
+  padding: 3% 15%;
+}
+#title{
+  background-color: #8479E1;
+  color: #F3E9DD;}
+
+
+.headcs{
+  background-color: #8479E1;
+  padding-bottom: 50px;
+}
+
+.cardd{
+  padding-top: 90px;
+  padding-left: 260px;
+
+}
+.slide{
+  position: relative center;
+  width:50%;
+  top:80px;
+  left: 95px;
+}
+.headcss{
+  padding-top: 60px;
+}
+.select{
+  position: relative ;
+  bottom:   3rem;
+  left : 0rem;
+}
+.selectt{
+  position: relative;
+  left : 0rem;
+  top: 2rem;
+}
+.m{
+  padding-top: 100px;
+}
+.cs{
+  position:relative;
+  width:200px;
+  right : 30px;
+}
+.cis{
+  position:relative;
+  width:200px;
+}
+.bit{
+  position:relative;
+  width:200px;
+  left:30px;
+}
+.middle{
+  /* background-color:  */
+  /* padding : 3% 15%; */
+  margin-top: 150px;
+    margin-bottom: 150px;
+}
+.imgs{
+  margin-top: 60px;
+}
+.select{
+  color: #8479E1;
+}
+.bottomm {
+  text-align: center;
+  background-color: #8479E1;
+  padding: 50px 0px 20px;
+}
+footer{
+  background-color: #8479E1;
+}
